@@ -1,5 +1,6 @@
 # pyipscan
 Python IP Scanner 
+Lokales scannen von Gateways und Webserver. 
 
 TCP / UDP IP Scanner (pyipscan.py)
 Ein grafischer IP-Scanner auf Basis von Python und Tkinter, mit dem IP-Bereiche (CIDR) auf einen bestimmten Port über TCP, UDP oder beide Protokolle (BOTH) geprüft werden können. Nach dem Scan werden gefundene Treffer mit – sofern im lokalen Subnetz ermittelbar – zugehörigen MAC-Adressen aus der ARP-Tabelle angezeigt.  
