@@ -13,3 +13,6 @@ Integrierter Info-Dialog: Enthält Hinweise zu CIDR-Größen, Protokollbeispiele
 Voraussetzungen & Start
 Python 3 mit Standardbibliotheken (socket, threading, subprocess, ipaddress, queue, tkinter). Keine externen Drittanbieter-Pakete erforderlich.  
 Plattform: Auf Windows ausgerichtet (Fenstertitel und arp -a-Auswertung).  
+
+
+python pyipscan.py
